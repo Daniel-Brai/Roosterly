@@ -1,24 +1,16 @@
-# README
+# Roosterly
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An online rental service simmilar to Airbnb with a focus on transparency between the renter and rentee (work-in-progress)
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 3.2.0
 
-* System dependencies
+* System dependencies: Linux (Ubuntu 20.04)
 
-* Configuration
+* Configuration: `bundle install` to install app dependencies
 
-* Database creation
+* Database creation: `rails db:create`
 
-* Database initialization
+* Database initialization: `rails db:migrate`
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
